@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={n-hirahara}&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={HIRAHARANAOKI}&layout=compact)]
 (https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={n-hirahara})]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={HIRAHARANAOKI})]
 (https://github.com/anuraghazra/github-readme-stats)
 
